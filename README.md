@@ -12,11 +12,11 @@ Have worked with [Nashville Public Library](https://github.com/Nashville-Public-
 
 ## Web Site Projects
 
-### [Nashville Public Library](https://library.nashville.org) Drupal
+### [Nashville Public Library](https://library.nashville.gov) Drupal
 
-- [NPL Podcasts](https://library.nashville.org/podcasts) XML, RSS
-- [Metro Archives](https://library.nashville.org/metro-archives)
-- [Public Library Board of Trustees](https://library.nashville.org/about/public-library-board-trustees)
+- [NPL Podcasts](https://library.nashville.gov/podcasts) XML, RSS
+- [Metro Archives](https://library.nashville.gov/metro-archives)
+- [Public Library Board of Trustees](https://library.nashville.gov/about/public-library-board-trustees)
 
 ### [Events Calendar](https://events.library.nashville.org) Bedework Enterprise Calendar
 
