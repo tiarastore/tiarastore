@@ -24,7 +24,7 @@ Have worked with [Nashville Public Library](https://github.com/Nashville-Public-
 
 ### [NECAT Network](https://necatnetwork.nasvhille.gov/) WordPress
 
-### [EZproxy Configuration](https://ezproxy.library.nashville.org/) EZproxy
+### [EZproxy Configuration](https://ezproxy.library.nashville.gov) EZproxy
 
 ### [Salon Authors Series](https://github.com/tiarastore/salon-authors-series) HTML, CSS
 
